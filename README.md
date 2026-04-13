@@ -6,11 +6,17 @@ A powerful Telegram bot that tracks your friends' LeetCode progress in real-time
 ### ✨ Features
 
 🔔 Real-time Notifications - Get instant updates when your friends solve problems
+
 👥 Multi-user Support - Each user maintains their own tracking list
+
 🏆 Personal Leaderboards - See how your friends rank
+
 🎯 Difficulty Tracking - Monitor Easy, Medium, and Hard problems separately
+
 💾 Persistent Data - Never lose tracking progress
+
 🚀 Easy Deployment - Deploy to Railway, Render, or Heroku in minutes
+
 📊 Detailed Stats - View comprehensive problem-solving statistics
 
 🎬 Demo
